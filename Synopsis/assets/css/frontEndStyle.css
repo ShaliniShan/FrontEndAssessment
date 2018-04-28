@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+<style type="text/css">
+.highlight {
+	background: #00bcd4;
+}
+
+.disable-link {
+	pointer-events: none;
+	cursor: default;
+}
+</style>
